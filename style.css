@@ -1,0 +1,15 @@
+img{
+    display: flex;
+    width: 500px;
+    /* padding: 10px; */
+    margin: 10px;
+    padding: none;
+    border: none;
+
+}
+
+body{
+    margin:10px ;
+    padding: none;
+    border: none;
+}
