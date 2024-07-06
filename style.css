@@ -13,3 +13,19 @@ body{
     padding: none;
     border: none;
 }
+
+form label{
+    display: block;
+}
+#textarea{
+    display: block;
+}
+#date{
+    display: block;
+}
+#name{
+    display: block;
+}
+#submit{
+    margin-top: 10px;
+}
